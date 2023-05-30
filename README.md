@@ -1,8 +1,8 @@
 # Design Patterns
-Resolução do exercício prátio de Design Patterns.
+Resolução do exercício prático de Design Patterns.
 
 ## Descrição das questões
-Para visualizar mais informações sobre as aplicações, acesse o READ-ME individual de cada uma.
+Para visualizar mais informações sobre as aplicações, acesse o README individual de cada uma.
 
 ### Questão 1
 A primeira questão foi desenvolvida em Dart e utiliza o design pattern Strategy para implementar um sistema capaz de ordenar dados.
